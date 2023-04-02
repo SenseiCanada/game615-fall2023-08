@@ -1,4 +1,6 @@
 # game615-spring2023-08
-ideas for goofy models
-alligators, snakes, lizards, trex
-bison, whale, sloths, 
+
+Justin and Jacob
+
+object chess use the pieces to defeat your opponent and outsmart them. 
+
