@@ -1,4 +1,4 @@
-# game615-spring2023-08
+# Exercise 8
 
 Justin and Jacob
 
